@@ -1,12 +1,16 @@
 # FHIROntopOMOP
 
 This project exposes
+
+
 the [Observational Medical Outcomes Partnership (OMOP)](https://www.ohdsi.org/data-standardization/the-common-data-model/)
 data as a queryable Knowledge Graph compliant with the [HL7 FHIR standard](https://www.hl7.org/fhir/) using
 the [Ontop](https://ontop-vkg.org/)
 Virtual Knowledge Graph engine.
 
 ## Prerequisite: 
+
+
 a working connection to the OMOP PostgreSQL database. If the database and the Docker engine are running on the same machine, some additional configuration might be needed (see the end of this document)   
 
 ## Docker-based Installation Instruction
