@@ -3,7 +3,7 @@
 This project exposes
 
 
-the [Observational Medical Outcomes Partnership (OMOP)](https://www.ohdsi.org/data-standardization/the-common-data-model/)
+The [Observational Medical Outcomes Partnership (OMOP)](https://www.ohdsi.org/data-standardization/the-common-data-model/)
 data as a queryable Knowledge Graph compliant with the [HL7 FHIR standard](https://www.hl7.org/fhir/) using
 the [Ontop](https://ontop-vkg.org/)
 Virtual Knowledge Graph engine.
